@@ -1,0 +1,16 @@
+/* Generic Stream LXP external-loading test. No production or organisation-specific code. */
+.stream-external-test {
+  box-sizing: border-box;
+  max-width: 720px;
+  margin: 24px auto;
+  padding: 24px;
+  border: 3px solid #222;
+  border-radius: 20px;
+  background: #d8f7ea;
+  color: #111;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+}
+.stream-external-test strong { display: block; font-size: 22px; margin-bottom: 8px; }
+.stream-external-test__status { margin-top: 12px; font-weight: 700; }
