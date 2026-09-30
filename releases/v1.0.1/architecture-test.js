@@ -1,0 +1,2 @@
+/* immutable release v1.0.1 */
+(function(){var root=document.getElementById('mylearn-loader-test');if(!root)return;root.innerHTML='<div class="loader-badge">REMOTE RELEASE v1.0.1</div><h2>Permanent loader test</h2><p>✓ Manifest fetched without editing the Stream block</p><p>✓ Versioned CSS loaded</p><p>✓ Versioned JavaScript executed</p><p><strong>Release selected remotely: v1.0.1</strong></p>';})();
